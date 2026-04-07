@@ -9,7 +9,7 @@ import java.util.Arrays;
 public class YouTubeCategoryFinder {
 
     // Replace with your actual Google API Key
-    private static final String API_KEY = "AIzaSyCpW_E7TQ3FQPiAM2gG1APlMpYLc_ZhdPk";
+    private static final String API_KEY = "your api key";
 	
 	
     // Mapping of YouTube Category IDs to Names
